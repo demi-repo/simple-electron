@@ -1,0 +1,82 @@
+body {
+    background-color: #181616;
+}
+
+.search{
+    margin: 20px;
+    display: flex;
+}
+
+.search-text {
+    background-color: #2f2f2f;
+    padding: 12px;
+    color: #93999a;
+    outline-width: 0;
+    border-color: #7e7e7e;
+    width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    outline: #181616;
+}
+
+
+.search-button {
+    background-color: #d84d3d;
+    width: 60px;
+    height: 43px;
+    color: white;
+    cursor: pointer;
+}
+
+.update-button {
+    background-color: #d84d3d;
+    width: 60px;
+    height: 43px;
+    color: white;
+    cursor: pointer;
+}
+
+.search-results {
+    color: #929292;
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    gap: 10px;
+}
+
+.search-result{
+    background-color: #212121;
+    margin-bottom: 10px;
+    padding: 4px 12px;
+}
+
+.search-result:hover{
+    background-color: #333333;
+}
+
+.url {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #c92f4b;
+}
+
+.url:hover{
+    cursor: pointer;
+}
+
+.cves {
+}
+
+.cve {
+    background-color: #474747;
+    margin: 2px;
+    border-radius: 25px;
+}
+
+.provider {
+
+}
+
+.dt {
+
+}
+
+.summary {
+}
